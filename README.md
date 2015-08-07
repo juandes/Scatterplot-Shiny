@@ -8,6 +8,7 @@ I did for testing the framework. The app, is an interactive scatterplot of the 1
 Motor Trend dataset (mtcars), in which the user is able to change the variables to plot.
 
 The app can be found here: [Scatterplot Shiny App](https://juande.shinyapps.io/ScatterplotShinyApp)
+GutHub page about the project: [Scatterplot Shiny App home page](http://juandes.github.io/Scatterplot-Shiny/)
 
 ## Project
 
